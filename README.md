@@ -2,19 +2,6 @@
 Dynamic Speedometer, Gauge for Android. **amazing**, **powerful**, and _multi shape_ :zap: , you can change (colors, bar width, shape, text, font ...everything !!), this Library has also made to build **games** with `accelerate` and `decelerate`,
  [see project on GitHub](https://github.com/vasnc9585/SpeedoMeeter).
 
-`minSdkVersion=8`
-
-Library Size just ~ 50 KB.
-
-**Speedometers...**<br/>
-<img src="images/SpeedView.gif" width="32%" />
-<img src="images/AwesomeSpeedometer.gif" width="32%" />
-<img src="images/PointerSpeedometer.gif" width="32%" />
-
-**Gauges...**<br/>
-<img src="images/ProgressiveGauge.gif" width="49%" />
-<img src="images/ImageLinearGauge.gif" width="49%" />
-
 # Download
 
 **add this line to** `build.gradle`
